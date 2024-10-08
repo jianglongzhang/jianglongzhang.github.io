@@ -2,7 +2,7 @@
 
 [[Github ID: jianglongzhang](https://github.com/jianglongzhang/jianglongzhang.github.io)](https://github.com/jianglongzhang)
 
-Hello, i'm Jianglong Zhang, 22 years old. I'm currently pursuing a Master's Degree in MJC, at School of Journalism and Communication, Nanjing University, China. At present, my academic experience is not rich, but I am working towards this direction.
+Hello, i'm Jianglong Zhang. I'm currently pursuing a Master's Degree in MJC, at School of Journalism and Communication, Nanjing University, China. At present, my academic experience is not rich, but I am working towards this direction.
 
 #### Email
 522024110072@smail.nju.edu.cn
