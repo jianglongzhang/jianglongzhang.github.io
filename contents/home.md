@@ -1,6 +1,5 @@
 
-
-[![jianglongzhang](https://github.com/jianglongzhang/jianglongzhang.github.io)]
+[![jianglongzhang](https://github.com/jianglongzhang)]
 
 He is currently pursuing a Master's Degree in MJC, at School of Journalism and Communication, Nanjing University, China.
 
