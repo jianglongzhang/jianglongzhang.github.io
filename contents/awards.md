@@ -5,3 +5,5 @@
 - Second-prize of winter social practice of Zhengzhou University, 2022.
 
 - Second-prize of summer social practice of Zhengzhou University, 2021.
+
+- First-prize of International Kongfu Competition, 2024.
