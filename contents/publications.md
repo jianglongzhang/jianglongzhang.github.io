@@ -1,6 +1,6 @@
 - <strong>Jianglong Zhang</strong>, Japanese fans cleaning up garbage is questioned, do not have to wear "colored glasses" to criticize. <strong>NetEase News.</strong> [[Code]](https://m.163.com/dy/article/HN22KT760514EV7Q.html)
 
-- <strong>Jianglong Zhang</strong>, "People" or "people"? To memory to have a "haggle" serious. <strong>Tencent</strong>. [[Paper]](https://view.inews.qq.com/k/20221028A02S4800?web_channel=wap&openApp=false)
+- <strong>Jianglong Zhang</strong>, "Is people" or "This people"? To memory to have a "haggle" serious. <strong>Tencent</strong>. [[Paper]](https://view.inews.qq.com/k/20221028A02S4800?web_channel=wap&openApp=false)
 
 - <strong>Jianglong Zhang</strong>, Rushing into the stadium is not "love", and violent conflict is not "blood". <strong>Tencent</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://view.inews.qq.com/k/20221003A06X5G00?web_channel=wap&openApp=false)
 
